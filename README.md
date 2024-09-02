@@ -1,4 +1,4 @@
-# Cezars Chipher
+# Cezars Cipher
 Cyphering and deciphering Cezar's cipher - C++ Console App
 
 Program that encrypts and decrypts the Caesar Cipher.
